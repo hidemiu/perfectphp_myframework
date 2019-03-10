@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0fd44bc-4c31-4c30-92f8-2c5934ffce75" name="Default" comment="" />
+    <list default="true" id="d0fd44bc-4c31-4c30-92f8-2c5934ffce75" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/core/DbManager.php" afterPath="$PROJECT_DIR$/applications/core/DbManager.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +36,8 @@
       <file leaf-file-name="DbManager.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/applications/core/DbManager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="473">
+              <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -153,12 +155,12 @@
       <updated>1545809212186</updated>
       <workItem from="1545809213347" duration="8828000" />
       <workItem from="1547575019453" duration="971000" />
-      <workItem from="1550420795349" duration="846000" />
+      <workItem from="1550420795349" duration="1694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10645000" />
+    <option name="totallyTimeSpent" value="11493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -367,8 +369,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/applications/core/DbManager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="473">
+          <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
           <folding />
         </state>
       </provider>
